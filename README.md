@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--![Hanna Novak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kernel86&count_private=true&show_icons=true&theme=bear)-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kernel86&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kernel86&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Kernel86/Kernel86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
